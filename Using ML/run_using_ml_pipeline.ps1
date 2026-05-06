@@ -9,3 +9,5 @@ if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 python "Using ML\02_random_forest_knn_biomarkers.py"
 if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 
+python "Using ML\03_consensus_biomarker_compare_plot.py"
+if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }

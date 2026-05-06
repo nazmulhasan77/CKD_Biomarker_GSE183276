@@ -34,8 +34,12 @@ Bangla note: cell-level ML korle same patient-er thousands of cells model-e chol
   - Performs cross-validation.
   - Computes RF importance, KNN permutation importance, and combined ML biomarker score.
 
+- `03_consensus_biomarker_compare_plot.py`
+  - Finds genes shared by traditional DE, ML upregulated ranking, and Random Forest.
+  - Creates comparison plots for consensus biomarkers.
+
 - `run_using_ml_pipeline.ps1`
-  - Runs both scripts in order.
+  - Runs all ML scripts in order.
 
 ## How To Run
 
@@ -44,6 +48,7 @@ From the main dataset folder:
 ```powershell
 python "Using ML\01_build_patient_pseudobulk.py"
 python "Using ML\02_random_forest_knn_biomarkers.py"
+python "Using ML\03_consensus_biomarker_compare_plot.py"
 ```
 
 Or run both together:
@@ -60,12 +65,18 @@ powershell -ExecutionPolicy Bypass -File "Using ML\run_using_ml_pipeline.ps1"
 - `results/ml_combined_candidate_biomarkers.csv`
 - `results/ml_upregulated_candidate_biomarkers.csv`
 - `results/ml_downregulated_reference_loss_genes.csv`
+- `results/consensus_traditional_ml_rf_biomarkers.csv`
+- `results/consensus_overlap_counts.csv`
 - `results/model_cv_metrics.csv`
 - `figures/top20_random_forest_importance.png`
 - `figures/top20_knn_permutation_importance.png`
 - `figures/top20_knn_single_gene_cv_importance.png`
 - `figures/top20_combined_ml_biomarkers.png`
 - `figures/top20_ml_upregulated_biomarkers.png`
+- `figures/consensus_biomarker_score_comparison.png`
+- `figures/consensus_biomarker_rank_comparison.png`
+- `figures/consensus_biomarker_score_heatmap.png`
+- `figures/consensus_overlap_counts.png`
 
 ## Recommended Thesis Interpretation
 
