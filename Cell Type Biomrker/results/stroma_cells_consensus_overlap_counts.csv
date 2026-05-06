@@ -1,0 +1,7 @@
+cell_class,top_n,triple_overlap_genes
+stroma cells,25,0
+stroma cells,50,6
+stroma cells,100,17
+stroma cells,200,35
+stroma cells,500,38
+stroma cells,all,38

@@ -1,0 +1,5 @@
+cell_class,n_patients,n_case_patients,n_control_patients,n_cells,n_traditional_up,n_traditional_significant_up,n_ml_up,n_consensus_genes,top_consensus_genes
+epithelial cells,33,15,18,56451,6328,489,164,118,ORC5;TBL1XR1;WFDC2;MAP3K1;HOXA3;DYRK2;PROM1;TNFAIP8;ITGB8;SAMD12
+immune cells,32,14,18,8349,3503,16,186,16,TLR7;ZFP36L1;CD180;TNF;MAP3K1;MAPK8IP3;ZMIZ2;SP1;MYO1C;TP53
+endothelial cells,32,14,18,6634,4715,59,96,58,ZNF503;SOX18;LPAR6;FOXP1;MARCKS;SFT2D2;RUNX1T1;VWF;CALHM2;SOX4
+stroma cells,32,14,18,2513,5758,38,168,38,NEDD4L;NR2F2;C4orf48;RUNX1T1;PROM1;EPS8L2;CDH6;SOX4;FLRT3;MUC1

@@ -1,0 +1,3 @@
+cell_class,model,accuracy,balanced_accuracy,f1,roc_auc
+stroma cells,RandomForest_final_fit,1.0,1.0,1.0,1.0
+stroma cells,KNN_final_fit,1.0,1.0,1.0,1.0

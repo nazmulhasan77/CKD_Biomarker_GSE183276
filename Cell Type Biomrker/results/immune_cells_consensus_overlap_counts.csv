@@ -1,0 +1,7 @@
+cell_class,top_n,triple_overlap_genes
+immune cells,25,0
+immune cells,50,2
+immune cells,100,6
+immune cells,200,15
+immune cells,500,16
+immune cells,all,16

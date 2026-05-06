@@ -1,0 +1,3 @@
+cell_class,model,accuracy,balanced_accuracy,f1,roc_auc
+endothelial cells,RandomForest_final_fit,1.0,1.0,1.0,1.0
+endothelial cells,KNN_final_fit,1.0,1.0,1.0,1.0

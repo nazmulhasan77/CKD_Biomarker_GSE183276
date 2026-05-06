@@ -1,0 +1,9 @@
+cell_class,model,metric,mean,std,fold_values
+immune cells,RandomForest,accuracy,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+immune cells,RandomForest,balanced_accuracy,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+immune cells,RandomForest,f1,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+immune cells,RandomForest,roc_auc,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+immune cells,KNN,accuracy,0.9666666666666668,0.07453559924999298,1.0000;1.0000;1.0000;0.8333;1.0000
+immune cells,KNN,balanced_accuracy,0.9666666666666666,0.07453559924999302,1.0000;1.0000;1.0000;0.8333;1.0000
+immune cells,KNN,f1,0.96,0.08944271909999157,1.0000;1.0000;1.0000;0.8000;1.0000
+immune cells,KNN,roc_auc,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000

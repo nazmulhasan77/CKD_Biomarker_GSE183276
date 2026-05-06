@@ -1,0 +1,7 @@
+cell_class,top_n,triple_overlap_genes
+epithelial cells,25,2
+epithelial cells,50,4
+epithelial cells,100,16
+epithelial cells,200,54
+epithelial cells,500,118
+epithelial cells,all,118

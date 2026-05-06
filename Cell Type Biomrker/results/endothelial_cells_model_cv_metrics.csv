@@ -1,0 +1,9 @@
+cell_class,model,metric,mean,std,fold_values
+endothelial cells,RandomForest,accuracy,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,RandomForest,balanced_accuracy,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,RandomForest,f1,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,RandomForest,roc_auc,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,KNN,accuracy,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,KNN,balanced_accuracy,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,KNN,f1,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000
+endothelial cells,KNN,roc_auc,1.0,0.0,1.0000;1.0000;1.0000;1.0000;1.0000

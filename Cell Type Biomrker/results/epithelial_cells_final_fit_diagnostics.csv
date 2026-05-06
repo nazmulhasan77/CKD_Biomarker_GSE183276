@@ -1,0 +1,3 @@
+cell_class,model,accuracy,balanced_accuracy,f1,roc_auc
+epithelial cells,RandomForest_final_fit,1.0,1.0,1.0,1.0
+epithelial cells,KNN_final_fit,1.0,1.0,1.0,1.0
