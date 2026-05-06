@@ -1,0 +1,3 @@
+model,accuracy,balanced_accuracy,f1,roc_auc,tn,fp,fn,tp
+RandomForest_final_fit,1.0,1.0,1.0,1.0,18,0,0,15
+KNN_final_fit,1.0,1.0,1.0,1.0,18,0,0,15
