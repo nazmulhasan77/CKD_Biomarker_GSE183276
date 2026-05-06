@@ -484,12 +484,12 @@ ERRFI1
 প্রধান চিত্র:
 
 ```text
-figures/umap_condition_l1.png
-figures/umap_class.png
-figures/cell_class_composition_by_condition.png
-figures/volcano_ckd_vs_ref_all_cells.png
-figures/top20_ckd_upregulated_candidate_biomarkers.png
-figures/top20_ckd_downregulated_reference_loss_genes.png
+Common Biomarker/figures/umap_condition_l1.png
+Common Biomarker/figures/umap_class.png
+Common Biomarker/figures/cell_class_composition_by_condition.png
+Common Biomarker/figures/volcano_ckd_vs_ref_all_cells.png
+Common Biomarker/figures/top20_ckd_upregulated_candidate_biomarkers.png
+Common Biomarker/figures/top20_ckd_downregulated_reference_loss_genes.png
 ```
 
 যন্ত্রশিক্ষা চিত্র:
@@ -690,27 +690,27 @@ Using ML/results/ml_combined_candidate_biomarkers.csv
 
 #### UMAP: রোগাবস্থা অনুযায়ী
 
-![UMAP condition](figures/umap_condition_l1.png)
+![UMAP condition](<Common Biomarker/figures/umap_condition_l1.png>)
 
 #### UMAP: কোষ শ্রেণি অনুযায়ী
 
-![UMAP class](figures/umap_class.png)
+![UMAP class](<Common Biomarker/figures/umap_class.png>)
 
 #### কোষ শ্রেণির গঠন
 
-![Cell class composition](figures/cell_class_composition_by_condition.png)
+![Cell class composition](<Common Biomarker/figures/cell_class_composition_by_condition.png>)
 
 #### CKD বনাম Ref volcano plot
 
-![Volcano CKD vs Ref](figures/volcano_ckd_vs_ref_all_cells.png)
+![Volcano CKD vs Ref](<Common Biomarker/figures/volcano_ckd_vs_ref_all_cells.png>)
 
 #### শীর্ষ CKD-upregulated candidate biomarkers
 
-![Top CKD upregulated biomarkers](figures/top20_ckd_upregulated_candidate_biomarkers.png)
+![Top CKD upregulated biomarkers](<Common Biomarker/figures/top20_ckd_upregulated_candidate_biomarkers.png>)
 
 #### শীর্ষ CKD-downregulated reference-loss genes
 
-![Top CKD downregulated genes](figures/top20_ckd_downregulated_reference_loss_genes.png)
+![Top CKD downregulated genes](<Common Biomarker/figures/top20_ckd_downregulated_reference_loss_genes.png>)
 
 ### যন্ত্রশিক্ষা বিশ্লেষণের plot
 
