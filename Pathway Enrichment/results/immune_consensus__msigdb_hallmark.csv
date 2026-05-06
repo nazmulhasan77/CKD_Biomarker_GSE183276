@@ -1,0 +1,6 @@
+gene_set,gene_set_label,library_short,library_name,rank,term,p_value,z_score,combined_score,overlap_genes,overlap_n,adjusted_p_value,old_p_value,old_adjusted_p_value,neg_log10_adjusted_p_value,gene_list_size
+immune_consensus,Immune Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,1,p53 Pathway,0.0005011239651713426,23.178836392034363,176.1280286078286,SP1;TP53;ZFP36L1,3,0.0070157355123987965,0,0,2.1539267918870095,16
+immune_consensus,Immune Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,2,Mitotic Spindle,0.010784551657947264,14.348803480783177,64.99492239036189,RABGAP1;KIF22,2,0.030487590005294104,0,0,1.51587690455456,16
+immune_consensus,Immune Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,3,IL-2/STAT5 Signaling,0.010784551657947264,14.348803480783177,64.99492239036189,MYO1C;TLR7,2,0.030487590005294104,0,0,1.51587690455456,16
+immune_consensus,Immune Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,4,Allograft Rejection,0.010888425001890752,14.275613275613276,64.52655688502057,TNF;CCR2,2,0.030487590005294104,0,0,1.51587690455456,16
+immune_consensus,Immune Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,5,E2F Targets,0.010888425001890752,14.275613275613276,64.52655688502057,KIF22;TP53,2,0.030487590005294104,0,0,1.51587690455456,16

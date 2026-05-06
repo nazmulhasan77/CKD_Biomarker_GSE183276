@@ -1,0 +1,730 @@
+gene_set,gene_set_label,source_file,gene_rank,gene
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,1,PROM1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,2,DYRK2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,3,MAP3K1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,4,ITGB8
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,5,GALNT3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,6,CDH6
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,7,WFDC2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,8,CLDN1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,9,SAMD12
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,10,VCAM1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,11,LRRK2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,12,TBL1XR1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,13,RASGRP1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,14,CXADR
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,15,ARRDC3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,16,TNFRSF11B
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,17,SESN3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,18,KANSL1L
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,19,HOXA3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,20,GPX8
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,21,ITGB6
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,22,ENPP5
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,23,TMEM159
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,24,SLC35F5
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,25,TNFAIP8
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,26,AP1G2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,27,GALNT7
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,28,SEMA4D
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,29,TPBG
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,30,DSC2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,31,STX7
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,32,MMP7
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,33,STAT1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,34,MACC1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,35,TMEM139
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,36,PLEKHA1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,37,ZDHHC2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,38,TNFSF10
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,39,SEL1L3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,40,F2RL1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,41,XRCC4
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,42,MDM4
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,43,CASP2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,44,MARCKS
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,45,TSPAN1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,46,RSPRY1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,47,CEPT1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,48,MESP1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,49,ARNT
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,50,FZD1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,51,FLRT3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,52,PAPPA2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,53,PRKACB
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,54,MBTD1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,55,GPR180
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,56,COL27A1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,57,GALNT1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,58,RNF217
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,59,AGPS
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,60,HNF1B
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,61,TP53INP1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,62,EPG5
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,63,ADAM10
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,64,ZNRF2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,65,GPC4
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,66,TMEM63A
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,67,CFI
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,68,FAM117B
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,69,PLS1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,70,ABCC3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,71,RAP1GDS1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,72,RCAN3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,73,CCDC51
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,74,TP53
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,75,RCBTB2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,76,RAB3D
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,77,CTXN1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,78,ZNF608
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,79,EFHC1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,80,UBXN11
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,81,MET
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,82,BMP2K
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,83,CHL1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,84,STK38
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,85,WDR19
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,86,RUFY3
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,87,MCM7
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,88,KCNIP4
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,89,YPEL2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,90,YDJC
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,91,RHOF
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,92,CDC42SE2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,93,ORC4
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,94,NLN
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,95,FLOT2
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,96,SESTD1
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,97,TRIM27
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,98,DSEL
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,99,CSNK1G1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,1,WFDC2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,2,ITGB8
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,3,MAP3K1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,4,TBL1XR1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,5,LRRK2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,6,TNFRSF11B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,7,TSPAN1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,8,PIGR
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,9,PROM1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,10,MMP7
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,11,CYBA
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,12,TNFSF10
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,13,MARCKS
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,14,SPP1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,15,CLU
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,16,CDH6
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,17,HNRNPH1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,18,SESN3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,19,ITGB6
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,20,CFI
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,21,ARRDC3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,22,MDM4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,23,IL32
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,24,FGL2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,25,KANSL1L
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,26,SAMD12
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,27,VCAM1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,28,PAPPA2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,29,PLEKHA1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,30,STAT1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,31,SLC35F5
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,32,HNF1B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,33,TNFAIP8
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,34,MACC1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,35,CDC42
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,36,FLRT3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,37,PKHD1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,38,PAX2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,39,BICC1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,40,GALNT7
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,41,SLPI
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,42,HOXA3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,43,ADAM10
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,44,PAX8
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,45,ZDHHC2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,46,TMED2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,47,CXADR
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,48,TMEM159
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,49,S100A11
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,50,RASSF7
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,51,KIF12
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,52,SEL1L3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,53,MET
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,54,LNPEP
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,55,STX7
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,56,HOXB3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,57,CAPZA1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,58,RASGRP1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,59,SOX4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,60,PRKACB
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,61,CHL1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,62,CDC42SE2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,63,GALNT3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,64,DYRK2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,65,TFPI
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,66,TMEM176B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,67,CTXN1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,68,FTX
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,69,TRAM1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,70,FAT1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,71,TIA1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,72,RUFY3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,73,PLS1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,74,TMEM139
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,75,ENPP5
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,76,CTSS
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,77,EMX2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,78,MDK
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,79,SOD3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,80,SYTL2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,81,GALNT1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,82,XPO1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,83,ORC4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,84,TP53
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,85,ABCC3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,86,ANXA4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,87,ITM2C
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,88,TMX1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,89,TMEM176A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,90,GLS
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,91,LTB
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,92,RNF144B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,93,CCDC198
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,94,TIMP1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,95,GPC4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,96,PTBP3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,97,PPP1R9A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,98,N4BP2L2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,99,XRCC4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,100,DSC2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,101,C19orf33
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,102,SLC40A1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,103,PLOD2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,104,NHLRC3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,105,KANSL1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,106,AKR1C1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,107,MAP3K21
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,108,ARID1B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,109,VCAN
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,110,RNF213
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,111,SEMA4D
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,112,AGPS
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,113,SESTD1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,114,ZNF608
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,115,LPAR6
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,116,LBR
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,117,EFHC1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,118,TMPRSS4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,119,TESC
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,120,CD47
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,121,FZD1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,122,FLOT2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,123,COL27A1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,124,SLC44A4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,125,LAPTM4A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,126,TMEM63A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,127,PTPRC
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,128,ARHGEF28
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,129,TMED5
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,130,STK38
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,131,TUSC3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,132,ATF7IP
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,133,CAPRIN1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,134,TPBG
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,135,YPEL2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,136,CMTM6
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,137,PTEN
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,138,EPS8L2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,139,S100A1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,140,ZNF503
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,141,AP1G2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,142,CMPK1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,143,RBBP4
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,144,OGA
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,145,RCAN3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,146,CCNG2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,147,SFT2D2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,148,EIF2S3
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,149,PYCARD
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,150,F2RL1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,151,STT3B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,152,LASP1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,153,RHOF
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,154,NPNT
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,155,CEPT1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,156,BMP2K
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,157,CDH2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,158,PFN1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,159,LIMD2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,160,CLDN1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,161,C12orf75
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,162,ARNT
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,163,GPX8
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,164,FYB1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,165,MYEF2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,166,C4orf48
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,167,TNFAIP2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,168,DNAJC10
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,169,DSEL
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,170,NREP
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,171,ZNRF2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,172,LAMP2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,173,PCMTD1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,174,DYNC2LI1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,175,TMEM54
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,176,TP53INP1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,177,ATP11A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,178,EPG5
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,179,TRA2A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,180,GCA
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,181,HIST1H2AC
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,182,CXCL14
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,183,VPS13C
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,184,TMSB10
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,185,GFPT1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,186,RNF43
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,187,TMEM106B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,188,CMTR2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,189,SNX14
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,190,NHSL1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,191,SUMF2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,192,ADSS
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,193,BTBD7
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,194,PAM
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,195,TMEM167A
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,196,SYPL1
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,197,DCDC2
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,198,FAM117B
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,199,SCIN
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,200,ZBTB44
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,1,PDK4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,2,ZFAND5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,3,CEBPD
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,4,KLF9
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,5,GADD45A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,6,PER1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,7,NFKBIA
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,8,HERPUD1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,9,TSC22D3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,10,ERRFI1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,11,NR4A1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,12,SLC25A33
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,13,FKBP5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,14,RASD1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,15,SGK1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,16,GABARAPL1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,17,TIPARP
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,18,DUSP1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,19,KLF6
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,20,CYCS
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,21,USP2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,22,CSRNP1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,23,COX7A1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,24,SLC3A2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,25,ZFP36
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,26,CREM
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,27,MGP
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,28,BTG2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,29,MT2A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,30,SEC14L1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,31,IER3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,32,EGR1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,33,PIM3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,34,CEBPB
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,35,CSRP1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,36,GADD45B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,37,DHRS3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,38,MPC1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,39,EIF1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,40,RHOB
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,41,MT-CYB
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,42,TIMP3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,43,ATF3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,44,ARG2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,45,RCAN1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,46,JUND
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,47,COX6C
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,48,MIDN
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,49,EPAS1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,50,MT1M
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,51,TP53INP2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,52,IDI1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,53,MCL1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,54,PTP4A1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,55,SERTAD1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,56,DUSP6
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,57,MIR22HG
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,58,TOB2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,59,TCEAL2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,60,DDIT4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,61,HES4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,62,COX5B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,63,NEDD9
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,64,COX7B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,65,SLC25A25
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,66,SLC25A4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,67,SOCS2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,68,UBC
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,69,ELL2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,70,MAP1LC3A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,71,ZBTB16
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,72,GRASP
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,73,TOB1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,74,TMEM204
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,75,UBE2B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,76,NDUFB7
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,77,RGCC
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,78,CDKN1A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,79,PLAT
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,80,RGS3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,81,ZNF331
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,82,CYSTM1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,83,VPS37B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,84,NDUFB6
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,85,IGFBP5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,86,DNAJC19
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,87,UQCRB
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,88,UQCRH
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,89,NDUFB1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,90,HSPA9
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,91,JUN
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,92,PINK1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,93,MRPL54
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,94,GAS6
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,95,CKB
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,96,NFIL3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,97,NUDT16
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,98,NR4A3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,99,MT-ND1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,100,ACO2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,101,RPS20
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,102,SH3BP5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,103,KLF10
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,104,C11orf96
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,105,NDUFA8
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,106,CNBP
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,107,CDC42EP4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,108,SERPINA5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,109,PVALB
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,110,ISCA1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,111,RHOBTB3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,112,EMCN
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,113,SIK2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,114,FLT1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,115,ANKRD9
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,116,ERF
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,117,EIF1B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,118,EIF4H
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,119,SLC9A3R2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,120,SLC25A3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,121,EMD
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,122,ZNF593
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,123,MAFF
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,124,NDUFAF4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,125,CTNNAL1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,126,SMIM4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,127,COX6B1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,128,CISH
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,129,GOT1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,130,FOXO3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,131,GADD45G
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,132,MT1E
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,133,FOSL2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,134,GLUL
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,135,GUK1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,136,PGAM2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,137,CRHBP
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,138,FOS
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,139,NDUFS6
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,140,NDUFAB1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,141,RPL37A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,142,TPST2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,143,EID1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,144,PFDN2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,145,NDUFA6
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,146,LINC00473
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,147,NDUFA12
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,148,COX17
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,149,MRPL15
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,150,COX5A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,151,ATF4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,152,APOLD1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,153,PXN
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,154,DDIT3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,155,MRPL41
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,156,GNG7
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,157,ID2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,158,COX7C
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,159,MRPS36
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,160,NDRG1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,161,CHCHD10
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,162,SH3BP4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,163,NDRG2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,164,COX7A2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,165,SLC45A4
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,166,STARD8
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,167,SNCG
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,168,NDUFB9
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,169,BHLHE40
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,170,IDH2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,171,CCNB1IP1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,172,COX8A
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,173,SCAND1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,174,FERMT2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,175,KLF15
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,176,CTGF
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,177,GABARAPL2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,178,MRPL55
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,179,NDUFA1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,180,DUSP8
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,181,MINOS1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,182,CHCHD2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,183,HSF1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,184,PPP1R15B
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,185,KLK1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,186,SLC25A5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,187,CYC1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,188,RPL7
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,189,NDUFB3
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,190,BEX1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,191,ADM
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,192,TBC1D1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,193,WFDC1
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,194,TMEM88
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,195,ITPRIP
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,196,ITGA8
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,197,NAP1L5
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,198,NR0B2
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,199,CPM
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,200,ZFP36L2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,1,ORC5
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,2,TBL1XR1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,3,WFDC2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,4,MAP3K1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,5,HOXA3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,6,DYRK2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,7,PROM1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,8,TNFAIP8
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,9,ITGB8
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,10,SAMD12
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,11,TMEM139
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,12,DDX58
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,13,ADAMTS5
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,14,RASSF3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,15,FAS
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,16,KANSL1L
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,17,ADAM10
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,18,FZD1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,19,FAM117B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,20,TNFRSF11B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,21,NRP1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,22,APOL6
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,23,STAT1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,24,CSNK1G1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,25,GALNT7
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,26,PTEN
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,27,C2CD2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,28,LRRK2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,29,TNFSF10
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,30,TRIM22
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,31,CDH6
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,32,CASP1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,33,SEL1L3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,34,ENAH
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,35,HOXB3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,36,SPRY1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,37,MDK
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,38,RNF144B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,39,IKZF2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,40,TMEM159
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,41,PAM
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,42,PLEKHA1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,43,PDE5A
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,44,TRIM27
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,45,GPX8
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,46,ENPP5
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,47,CTSS
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,48,PLEKHH1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,49,WDR5B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,50,FMNL2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,51,DGKH
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,52,YPEL2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,53,SLFN5
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,54,STAT2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,55,PRKD3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,56,MALT1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,57,MMP2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,58,TMEM63A
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,59,ZNF608
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,60,RSPRY1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,61,SATB2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,62,CCDC51
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,63,CFI
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,64,FIGN
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,65,ITGB6
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,66,AIDA
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,67,FLOT2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,68,RUFY3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,69,SAMD9
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,70,GABBR1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,71,ELK3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,72,TRDMT1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,73,ARNT
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,74,HNF1B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,75,WDR19
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,76,SDC3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,77,FLCN
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,78,ABCC3
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,79,RNF217
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,80,MCM7
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,81,TPBG
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,82,VANGL1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,83,GALNT1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,84,GPC4
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,85,ECT2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,86,EPB41L4A
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,87,TFPI
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,88,ZNF462
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,89,CASP10
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,90,SYT11
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,91,AGPS
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,92,STK36
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,93,PARP8
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,94,TFAP4
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,95,XRCC4
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,96,PLS1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,97,RASGEF1B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,98,TM4SF18
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,99,UBE2Q2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,100,CCDC102A
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,101,TP53
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,102,IFI16
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,103,COL4A2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,104,EPG5
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,105,ORC4
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,106,RCBTB2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,107,STOX2
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,108,CTXN1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,109,SLC38A9
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,110,RAB3D
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,111,GSTCD
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,112,FAM111A
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,113,TTC30B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,114,DSEL
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,115,RASGRP1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,116,ENC1
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,117,SETD1B
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,118,RLN2
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,1,TLR7
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,2,ZFP36L1
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,3,CD180
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,4,TNF
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,5,MAP3K1
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,6,MAPK8IP3
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,7,ZMIZ2
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,8,SP1
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,9,MYO1C
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,10,TP53
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,11,IQCB1
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,12,RABGAP1
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,13,CCR2
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,14,ARHGAP17
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,15,KIF22
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,16,FAM199X
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,1,ZNF503
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,2,SOX18
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,3,LPAR6
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,4,FOXP1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,5,MARCKS
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,6,SFT2D2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,7,RUNX1T1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,8,VWF
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,9,CALHM2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,10,SOX4
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,11,LRRC8C
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,12,SLC16A7
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,13,KIF12
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,14,SMAD1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,15,LBR
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,16,ELK4
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,17,ZFP36L1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,18,KAT2A
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,19,MAP3K1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,20,RASSF7
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,21,CISD1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,22,SLC7A6
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,23,COLGALT1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,24,RAP2B
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,25,MET
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,26,DYRK2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,27,NREP
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,28,TMEM106B
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,29,SFXN1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,30,PPM1A
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,31,SLC12A2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,32,GNG12
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,33,EPS8L2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,34,EFNB2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,35,TET2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,36,NAA40
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,37,CTNNB1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,38,MYO1B
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,39,ETAA1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,40,SP1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,41,TRDMT1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,42,CAMK2N1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,43,IMPA2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,44,KCTD2
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,45,CXXC5
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,46,RC3H1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,47,PRTG
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,48,OGT
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,49,CLIC5
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,50,TBL1XR1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,51,CTSC
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,52,ARHGEF15
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,53,BMP2K
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,54,EZR
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,55,EHD1
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,56,MOB1B
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,57,ATL3
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,58,STX7
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,1,NEDD4L
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,2,NR2F2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,3,C4orf48
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,4,RUNX1T1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,5,PROM1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,6,EPS8L2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,7,CDH6
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,8,SOX4
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,9,FLRT3
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,10,MUC1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,11,PRSS8
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,12,AGRN
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,13,PCSK1N
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,14,SPON2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,15,SAMD9L
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,16,SLC39A10
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,17,BOK
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,18,ABHD10
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,19,GLS
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,20,COL3A1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,21,OGT
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,22,PTBP3
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,23,SPINT2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,24,MARCKS
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,25,NR2F1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,26,PAX2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,27,TNFSF10
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,28,KCTD12
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,29,SERINC2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,30,TMEM139
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,31,SLC40A1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,32,SLC35A1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,33,ITPRIPL2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,34,STAT1
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,35,CTSD
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,36,MITF
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,37,HRH2
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,38,ITM2B

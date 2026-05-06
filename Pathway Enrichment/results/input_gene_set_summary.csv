@@ -1,0 +1,8 @@
+gene_set,gene_set_label,source_file,n_genes,top_15_genes
+endothelial_consensus,Endothelial Cells Consensus,Cell Type Biomrker\results\endothelial_cells_consensus_traditional_ml_rf.csv,58,"ZNF503, SOX18, LPAR6, FOXP1, MARCKS, SFT2D2, RUNX1T1, VWF, CALHM2, SOX4, LRRC8C, SLC16A7, KIF12, SMAD1, LBR"
+epithelial_consensus,Epithelial Cells Consensus,Cell Type Biomrker\results\epithelial_cells_consensus_traditional_ml_rf.csv,118,"ORC5, TBL1XR1, WFDC2, MAP3K1, HOXA3, DYRK2, PROM1, TNFAIP8, ITGB8, SAMD12, TMEM139, DDX58, ADAMTS5, RASSF3, FAS"
+immune_consensus,Immune Cells Consensus,Cell Type Biomrker\results\immune_cells_consensus_traditional_ml_rf.csv,16,"TLR7, ZFP36L1, CD180, TNF, MAP3K1, MAPK8IP3, ZMIZ2, SP1, MYO1C, TP53, IQCB1, RABGAP1, CCR2, ARHGAP17, KIF22"
+stroma_consensus,Stroma Cells Consensus,Cell Type Biomrker\results\stroma_cells_consensus_traditional_ml_rf.csv,38,"NEDD4L, NR2F2, C4orf48, RUNX1T1, PROM1, EPS8L2, CDH6, SOX4, FLRT3, MUC1, PRSS8, AGRN, PCSK1N, SPON2, SAMD9L"
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,results\ckd_downregulated_reference_loss_genes.csv,200,"PDK4, ZFAND5, CEBPD, KLF9, GADD45A, PER1, NFKBIA, HERPUD1, TSC22D3, ERRFI1, NR4A1, SLC25A33, FKBP5, RASD1, SGK1"
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,results\ckd_upregulated_candidate_biomarkers.csv,200,"WFDC2, ITGB8, MAP3K1, TBL1XR1, LRRK2, TNFRSF11B, TSPAN1, PIGR, PROM1, MMP7, CYBA, TNFSF10, MARCKS, SPP1, CLU"
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Using ML\results\consensus_traditional_ml_rf_biomarkers.csv,99,"PROM1, DYRK2, MAP3K1, ITGB8, GALNT3, CDH6, WFDC2, CLDN1, SAMD12, VCAM1, LRRK2, TBL1XR1, RASGRP1, CXADR, ARRDC3"

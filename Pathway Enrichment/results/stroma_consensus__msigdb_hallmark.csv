@@ -1,0 +1,6 @@
+gene_set,gene_set_label,library_short,library_name,rank,term,p_value,z_score,combined_score,overlap_genes,overlap_n,adjusted_p_value,old_p_value,old_adjusted_p_value,neg_log10_adjusted_p_value,gene_list_size
+stroma_consensus,Stroma Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,1,Interferon Gamma Response,0.006424287048407678,8.599709934735316,43.40849457481817,SAMD9L;STAT1;TNFSF10,3,0.15418288916178427,0,0,0.811963820545422,38
+stroma_consensus,Stroma Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,2,IL-2/STAT5 Signaling,0.05481109656393722,5.5738860688099265,16.18579936703792,MUC1;TNFSF10,2,0.264918819128109,0,0,0.5768871894823482,38
+stroma_consensus,Stroma Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,3,p53 Pathway,0.05529985292704018,5.545454545454546,16.054007893661755,EPS8L2;CTSD,2,0.264918819128109,0,0,0.5768871894823482,38
+stroma_consensus,Stroma Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,4,Myogenesis,0.05529985292704018,5.545454545454546,16.054007893661755,COL3A1;AGRN,2,0.264918819128109,0,0,0.5768871894823482,38
+stroma_consensus,Stroma Cells Consensus,MSigDB Hallmark,MSigDB_Hallmark_2020,5,Epithelial Mesenchymal Transition,0.05529985292704018,5.545454545454546,16.054007893661755,CDH6;COL3A1,2,0.264918819128109,0,0,0.5768871894823482,38

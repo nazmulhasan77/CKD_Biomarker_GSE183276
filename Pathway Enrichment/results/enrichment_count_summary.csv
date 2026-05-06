@@ -1,0 +1,36 @@
+gene_set,gene_set_label,library_short,total_terms,significant_terms,best_adjusted_p_value,best_term
+endothelial_consensus,Endothelial Cells Consensus,GO Biological Process,162,8,0.007262880949201925,Negative Regulation of DNA-templated Transcription (GO:0045892)
+endothelial_consensus,Endothelial Cells Consensus,KEGG,24,0,0.1078654281328019,MICRORNAS IN CANCER
+endothelial_consensus,Endothelial Cells Consensus,MSigDB Hallmark,9,2,0.014471400655597275,TGF-beta Signaling
+endothelial_consensus,Endothelial Cells Consensus,Reactome,108,1,0.02493357629158405,Cardiogenesis
+endothelial_consensus,Endothelial Cells Consensus,WikiPathways,53,6,0.044863905016469606,Pleural Mesothelioma WP5087
+epithelial_consensus,Epithelial Cells Consensus,GO Biological Process,330,10,0.02195477591768778,Positive Regulation of Programmed Cell Death (GO:0043068)
+epithelial_consensus,Epithelial Cells Consensus,KEGG,89,0,0.11789704206364429,HUMAN PAPILLOMAVIRUS INFECTION
+epithelial_consensus,Epithelial Cells Consensus,MSigDB Hallmark,25,6,0.0022327483711332826,Interferon Gamma Response
+epithelial_consensus,Epithelial Cells Consensus,Reactome,214,12,0.011693197934493013,Regulated Necrosis
+epithelial_consensus,Epithelial Cells Consensus,WikiPathways,130,15,0.0032763237466053386,Apoptosis WP254
+immune_consensus,Immune Cells Consensus,GO Biological Process,100,85,0.001718841387007431,Intracellular Signaling Cassette (GO:0141124)
+immune_consensus,Immune Cells Consensus,KEGG,25,4,0.008030224937918119,MAPK SIGNALING PATHWAY
+immune_consensus,Immune Cells Consensus,MSigDB Hallmark,5,5,0.0070157355123987965,p53 Pathway
+immune_consensus,Immune Cells Consensus,Reactome,38,19,0.002107078183573189,Toll-like Receptor Cascades
+immune_consensus,Immune Cells Consensus,WikiPathways,48,47,0.002598294443721507,IL18 Signaling WP4754
+stroma_consensus,Stroma Cells Consensus,GO Biological Process,86,28,0.0002443053291017685,Nervous System Development (GO:0007399)
+stroma_consensus,Stroma Cells Consensus,KEGG,11,0,0.3521173188818584,TRANSCRIPTIONAL MISREGULATION IN CANCER
+stroma_consensus,Stroma Cells Consensus,MSigDB Hallmark,5,0,0.15418288916178427,Interferon Gamma Response
+stroma_consensus,Stroma Cells Consensus,Reactome,52,0,0.11342268916554916,Metal Ion SLC Transporters
+stroma_consensus,Stroma Cells Consensus,WikiPathways,16,0,0.07656266406435559,TP53 Network WP1742
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,GO Biological Process,477,99,3.857139964410824e-25,Mitochondrial ATP Synthesis Coupled Electron Transport (GO:0042775)
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,KEGG,142,38,1.0208623590759992e-23,NON-ALCOHOLIC FATTY LIVER DISEASE
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,MSigDB Hallmark,34,22,8.87014112230281e-28,Oxidative Phosphorylation
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,Reactome,319,66,2.056009447374288e-30,Aerobic Respiration and Respiratory Electron Transport
+whole_ckd_down_traditional,Whole Dataset CKD Down Traditional,WikiPathways,194,72,3.855141971095997e-25,Electron Transport Chain OXPHOS System In Mitochondria WP111
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,GO Biological Process,605,8,0.043860920475742554,Pronephros Development (GO:0048793)
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,KEGG,119,0,0.11022014779744434,P53 SIGNALING PATHWAY
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,MSigDB Hallmark,35,14,0.0002218708773420731,KRAS Signaling Up
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,Reactome,297,6,0.0005490845993480759,Formation of the Nephric Duct
+whole_ckd_up_traditional,Whole Dataset CKD Up Traditional,WikiPathways,173,0,0.08154105021698461,Pleural Mesothelioma WP5087
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,GO Biological Process,237,0,0.08376922932638808,Telencephalon Cell Migration (GO:0022029)
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,KEGG,70,1,0.03705216826608698,WNT SIGNALING PATHWAY
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,MSigDB Hallmark,20,1,0.016338708292032284,Inflammatory Response
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,Reactome,177,0,0.06644379792219286,Signal Transduction
+whole_consensus_ml_rf,Whole Dataset Consensus ML RF,WikiPathways,88,0,0.09591356205728285,Hippo Merlin Signaling Dysregulation WP4541
