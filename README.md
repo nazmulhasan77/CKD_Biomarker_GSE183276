@@ -682,3 +682,234 @@ Using ML/results/ml_upregulated_candidate_biomarkers.csv
 Using ML/results/ml_combined_candidate_biomarkers.csv
 ```
 
+## চিত্র গ্যালারি
+
+নিচে এই প্রকল্পে তৈরি করা সব প্রধান plot সরাসরি README-তে যুক্ত করা হলো।
+
+### প্রধান CKD বনাম Ref বিশ্লেষণ
+
+#### UMAP: রোগাবস্থা অনুযায়ী
+
+![UMAP condition](figures/umap_condition_l1.png)
+
+#### UMAP: কোষ শ্রেণি অনুযায়ী
+
+![UMAP class](figures/umap_class.png)
+
+#### কোষ শ্রেণির গঠন
+
+![Cell class composition](figures/cell_class_composition_by_condition.png)
+
+#### CKD বনাম Ref volcano plot
+
+![Volcano CKD vs Ref](figures/volcano_ckd_vs_ref_all_cells.png)
+
+#### শীর্ষ CKD-upregulated candidate biomarkers
+
+![Top CKD upregulated biomarkers](figures/top20_ckd_upregulated_candidate_biomarkers.png)
+
+#### শীর্ষ CKD-downregulated reference-loss genes
+
+![Top CKD downregulated genes](figures/top20_ckd_downregulated_reference_loss_genes.png)
+
+### যন্ত্রশিক্ষা বিশ্লেষণের plot
+
+#### Random Forest gene importance
+
+![Random Forest importance](<Using ML/figures/top20_random_forest_importance.png>)
+
+#### KNN single-gene cross-validation importance
+
+![KNN single gene importance](<Using ML/figures/top20_knn_single_gene_cv_importance.png>)
+
+#### KNN permutation importance
+
+![KNN permutation importance](<Using ML/figures/top20_knn_permutation_importance.png>)
+
+#### Combined ML biomarkers
+
+![Combined ML biomarkers](<Using ML/figures/top20_combined_ml_biomarkers.png>)
+
+#### ML CKD-upregulated biomarkers
+
+![ML upregulated biomarkers](<Using ML/figures/top20_ml_upregulated_biomarkers.png>)
+
+### Traditional, ML এবং Random Forest consensus plot
+
+#### Consensus score comparison
+
+![Consensus score comparison](<Using ML/figures/consensus_biomarker_score_comparison.png>)
+
+#### Consensus rank comparison
+
+![Consensus rank comparison](<Using ML/figures/consensus_biomarker_rank_comparison.png>)
+
+#### Consensus evidence heatmap
+
+![Consensus heatmap](<Using ML/figures/consensus_biomarker_score_heatmap.png>)
+
+#### Consensus overlap counts
+
+![Consensus overlap counts](<Using ML/figures/consensus_overlap_counts.png>)
+
+### কোষ-ধরনভিত্তিক সামগ্রিক plot
+
+#### Cell-type consensus count
+
+![Cell type consensus count](<Cell Type Biomrker/figures/cell_type_consensus_counts.png>)
+
+#### Cell-type top consensus heatmap
+
+![Cell type top consensus heatmap](<Cell Type Biomrker/figures/cell_type_top_consensus_heatmap.png>)
+
+## Epithelial Cells Plot
+
+#### Traditional volcano plot
+
+![Epithelial traditional volcano](<Cell Type Biomrker/figures/epithelial_cells_traditional_volcano.png>)
+
+#### Traditional top CKD-up biomarkers
+
+![Epithelial traditional top up](<Cell Type Biomrker/figures/epithelial_cells_traditional_top20_up.png>)
+
+#### Random Forest top genes
+
+![Epithelial Random Forest](<Cell Type Biomrker/figures/epithelial_cells_random_forest_top20.png>)
+
+#### KNN top genes
+
+![Epithelial KNN](<Cell Type Biomrker/figures/epithelial_cells_knn_single_gene_top20.png>)
+
+#### ML top CKD-up biomarkers
+
+![Epithelial ML up](<Cell Type Biomrker/figures/epithelial_cells_ml_top20_up.png>)
+
+#### Consensus score comparison
+
+![Epithelial consensus comparison](<Cell Type Biomrker/figures/epithelial_cells_consensus_score_comparison.png>)
+
+#### Consensus heatmap
+
+![Epithelial consensus heatmap](<Cell Type Biomrker/figures/epithelial_cells_consensus_score_heatmap.png>)
+
+#### Consensus overlap counts
+
+![Epithelial consensus overlap](<Cell Type Biomrker/figures/epithelial_cells_consensus_overlap_counts.png>)
+
+#### Model cross-validation balanced accuracy
+
+![Epithelial model CV](<Cell Type Biomrker/figures/epithelial_cells_model_cv_balanced_accuracy.png>)
+
+## Immune Cells Plot
+
+#### Traditional volcano plot
+
+![Immune traditional volcano](<Cell Type Biomrker/figures/immune_cells_traditional_volcano.png>)
+
+#### Traditional top CKD-up biomarkers
+
+![Immune traditional top up](<Cell Type Biomrker/figures/immune_cells_traditional_top20_up.png>)
+
+#### Random Forest top genes
+
+![Immune Random Forest](<Cell Type Biomrker/figures/immune_cells_random_forest_top20.png>)
+
+#### KNN top genes
+
+![Immune KNN](<Cell Type Biomrker/figures/immune_cells_knn_single_gene_top20.png>)
+
+#### ML top CKD-up biomarkers
+
+![Immune ML up](<Cell Type Biomrker/figures/immune_cells_ml_top20_up.png>)
+
+#### Consensus score comparison
+
+![Immune consensus comparison](<Cell Type Biomrker/figures/immune_cells_consensus_score_comparison.png>)
+
+#### Consensus heatmap
+
+![Immune consensus heatmap](<Cell Type Biomrker/figures/immune_cells_consensus_score_heatmap.png>)
+
+#### Consensus overlap counts
+
+![Immune consensus overlap](<Cell Type Biomrker/figures/immune_cells_consensus_overlap_counts.png>)
+
+#### Model cross-validation balanced accuracy
+
+![Immune model CV](<Cell Type Biomrker/figures/immune_cells_model_cv_balanced_accuracy.png>)
+
+## Endothelial Cells Plot
+
+#### Traditional volcano plot
+
+![Endothelial traditional volcano](<Cell Type Biomrker/figures/endothelial_cells_traditional_volcano.png>)
+
+#### Traditional top CKD-up biomarkers
+
+![Endothelial traditional top up](<Cell Type Biomrker/figures/endothelial_cells_traditional_top20_up.png>)
+
+#### Random Forest top genes
+
+![Endothelial Random Forest](<Cell Type Biomrker/figures/endothelial_cells_random_forest_top20.png>)
+
+#### KNN top genes
+
+![Endothelial KNN](<Cell Type Biomrker/figures/endothelial_cells_knn_single_gene_top20.png>)
+
+#### ML top CKD-up biomarkers
+
+![Endothelial ML up](<Cell Type Biomrker/figures/endothelial_cells_ml_top20_up.png>)
+
+#### Consensus score comparison
+
+![Endothelial consensus comparison](<Cell Type Biomrker/figures/endothelial_cells_consensus_score_comparison.png>)
+
+#### Consensus heatmap
+
+![Endothelial consensus heatmap](<Cell Type Biomrker/figures/endothelial_cells_consensus_score_heatmap.png>)
+
+#### Consensus overlap counts
+
+![Endothelial consensus overlap](<Cell Type Biomrker/figures/endothelial_cells_consensus_overlap_counts.png>)
+
+#### Model cross-validation balanced accuracy
+
+![Endothelial model CV](<Cell Type Biomrker/figures/endothelial_cells_model_cv_balanced_accuracy.png>)
+
+## Stroma Cells Plot
+
+#### Traditional volcano plot
+
+![Stroma traditional volcano](<Cell Type Biomrker/figures/stroma_cells_traditional_volcano.png>)
+
+#### Traditional top CKD-up biomarkers
+
+![Stroma traditional top up](<Cell Type Biomrker/figures/stroma_cells_traditional_top20_up.png>)
+
+#### Random Forest top genes
+
+![Stroma Random Forest](<Cell Type Biomrker/figures/stroma_cells_random_forest_top20.png>)
+
+#### KNN top genes
+
+![Stroma KNN](<Cell Type Biomrker/figures/stroma_cells_knn_single_gene_top20.png>)
+
+#### ML top CKD-up biomarkers
+
+![Stroma ML up](<Cell Type Biomrker/figures/stroma_cells_ml_top20_up.png>)
+
+#### Consensus score comparison
+
+![Stroma consensus comparison](<Cell Type Biomrker/figures/stroma_cells_consensus_score_comparison.png>)
+
+#### Consensus heatmap
+
+![Stroma consensus heatmap](<Cell Type Biomrker/figures/stroma_cells_consensus_score_heatmap.png>)
+
+#### Consensus overlap counts
+
+![Stroma consensus overlap](<Cell Type Biomrker/figures/stroma_cells_consensus_overlap_counts.png>)
+
+#### Model cross-validation balanced accuracy
+
+![Stroma model CV](<Cell Type Biomrker/figures/stroma_cells_model_cv_balanced_accuracy.png>)
